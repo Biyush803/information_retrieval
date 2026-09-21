@@ -1,0 +1,12 @@
+Title: Artificial Intelligence in Healthcare
+Source: World Health Organization
+URL: https://www.who.int/publications/i/item/9789240029200
+
+Artificial intelligence can support healthcare through medical image
+analysis, clinical decision making, disease detection, patient monitoring,
+and drug development. AI systems can help doctors analyze large amounts
+of health information. However, inaccurate or biased systems may create
+risks for patients. Healthcare organizations must protect patient privacy,
+ensure cybersecurity, and test AI systems carefully. Human supervision,
+transparency, accountability, and informed consent are important when
+artificial intelligence is used in healthcare.

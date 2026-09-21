@@ -1,0 +1,12 @@
+Title: Artificial Intelligence in Earth Science
+Source: NASA
+URL: https://science.nasa.gov/earth-science/data/artificial-intelligence/
+
+Satellites collect large amounts of information about the atmosphere,
+oceans, forests, weather, and climate. Artificial intelligence and
+machine learning can help scientists process satellite data and identify
+important patterns. AI models can support the detection of floods,
+wildfires, storms, and environmental changes. Scientists must use
+reliable training data and carefully validate model predictions.
+Artificial intelligence supports scientific analysis, but human knowledge
+is still necessary for interpreting environmental information.

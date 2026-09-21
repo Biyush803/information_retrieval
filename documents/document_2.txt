@@ -1,0 +1,12 @@
+Title: Artificial Intelligence Risk Management
+Source: National Institute of Standards and Technology
+URL: https://www.nist.gov/itl/ai-risk-management-framework
+
+Artificial intelligence risk management helps organizations create and
+use trustworthy AI systems. Organizations must identify possible risks
+related to privacy, security, fairness, transparency, and reliability.
+The NIST AI Risk Management Framework includes four main functions:
+govern, map, measure, and manage. Governance defines responsibilities
+and policies. Mapping identifies the context and possible effects of an
+AI system. Measurement evaluates system performance and risk. Management
+helps organizations prioritize and control the identified risks.

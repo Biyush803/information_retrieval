@@ -1,0 +1,12 @@
+Title: Artificial Intelligence and Public Policy
+Source: Organisation for Economic Co-operation and Development
+URL: https://www.oecd.org/en/topics/artificial-intelligence.html
+
+Artificial intelligence can improve productivity, scientific research,
+public services, and economic development. Governments need policies
+that encourage innovation while protecting privacy, security, fairness,
+human rights, and democratic values. Responsible artificial intelligence
+requires transparency, accountability, robustness, and human oversight.
+Workers may require new skills as AI changes workplace activities.
+International cooperation is also important because artificial
+intelligence technologies and their risks can affect many countries.

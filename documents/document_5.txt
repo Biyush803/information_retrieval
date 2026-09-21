@@ -1,0 +1,12 @@
+Title: Artificial Intelligence and Cybersecurity
+Source: Cybersecurity and Infrastructure Security Agency
+URL: https://www.cisa.gov/topics/cyber-threats-and-advisories/artificial-intelligence
+
+Artificial intelligence is increasingly used in cybersecurity. Machine
+learning can detect unusual network activity, malicious software, fraud,
+and possible cyberattacks. Security teams can use AI to analyze alerts
+and respond to incidents more quickly. However, attackers may also use
+generative AI to produce phishing messages and automate cyberattacks.
+Organizations should protect training data, control system access,
+monitor AI applications, and maintain human review of important security
+decisions.

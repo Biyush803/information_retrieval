@@ -1,0 +1,12 @@
+Title: Introduction to Artificial Intelligence
+Source: IBM
+URL: https://www.ibm.com/think/topics/artificial-intelligence
+
+Artificial intelligence allows computers and machines to perform tasks
+that normally require human intelligence. These tasks include learning,
+problem solving, language understanding, decision making, and recognizing
+patterns. Machine learning is a branch of artificial intelligence that
+allows computer systems to learn from data. Deep learning uses artificial
+neural networks to process large amounts of complex information.
+Artificial intelligence is used in customer service, fraud detection,
+recommendation systems, healthcare, education, and business automation.

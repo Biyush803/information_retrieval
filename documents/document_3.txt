@@ -1,0 +1,12 @@
+Title: Artificial Intelligence in Education
+Source: UNESCO
+URL: https://www.unesco.org/en/digital-education/artificial-intelligence
+
+Artificial intelligence can improve education by supporting personalized
+learning, automated feedback, and educational management. AI tools can
+help teachers prepare lessons and allow students to access learning
+materials based on their individual needs. However, educational
+institutions must consider privacy, academic integrity, fairness, and
+equal access. Teachers and students require AI literacy to understand
+the benefits and limitations of automated systems. Artificial intelligence
+should support teachers rather than completely replace human interaction.
